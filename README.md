@@ -6,8 +6,8 @@ Hi, I'm EKI
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Java
+|     1| PHP
 |     2| Python    |
-|     3| Laravel   |
+|     3| Java   |
 
 </details>
